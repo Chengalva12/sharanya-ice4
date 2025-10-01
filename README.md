@@ -2,21 +2,21 @@
 Created with CodeSandbox
 # Web Visualization Assignment – ICE-4 (CSCE 5320 @ UNT)
 
-## 📌 Overview
+## Overview
 This project was completed as part of the **Scientific Data Visualization (CSCE 5320)** course at the **University of North Texas**.  
 The goal of the assignment (ICE-4) was to use **HTML, CSS, JavaScript, SVG, and D3.js** to design and build interactive web visualizations.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 🔗 [View Project](https://y78y93.csb.app/)
 
-## 💻 View Code
+## View Code
 🔗 [CodeSandbox Editor](https://codesandbox.io/p/sandbox/y78y93?file=%2Findex.js)
 
 ---
 
-## 🛠️ Features
+## Features
 - **SVG Bus Illustration**
   - Designed in **Figma** and exported as SVG (`mybus.svg`)
   - Embedded into HTML and styled with **CSS**
@@ -30,7 +30,7 @@ The goal of the assignment (ICE-4) was to use **HTML, CSS, JavaScript, SVG, and 
 
 ---
 
-## 🧑‍💻 Technologies Used
+## Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
@@ -40,7 +40,7 @@ The goal of the assignment (ICE-4) was to use **HTML, CSS, JavaScript, SVG, and 
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Integrated **design tools (Figma)** with **front-end coding**
 - Practiced building **interactive visualizations** using D3.js
 - Learned how to **host and share projects** online via CodeSandbox
